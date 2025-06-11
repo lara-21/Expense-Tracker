@@ -29,7 +29,7 @@ project-folder/
 
 ## 🌐 Live Demo
 
-[Click here to view the live project](https://<your-username>.github.io/<your-repo-name>/)
+[Click here to view the live project](https://lara-21.github.io/Expense-Tracker/)
 
 _Replace the above URL with your actual GitHub Pages link._
 
